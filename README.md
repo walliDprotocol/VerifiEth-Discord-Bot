@@ -14,7 +14,7 @@ Current version of WallID VerifiEth allows:
 Next versions will allow
 <ul>
 <li>customisation of verified IDs - server admin is able to configure wich identities or blockchain assets should be verified</li>
-  <li>customisation of verification output - such as, badge award, nft drop or any other reward</li>
+<li>customisation of verification output - such as, badge award, nft drop or any other reward</li>
 
 
 VIDEO HOW to USE
@@ -24,10 +24,9 @@ VIDEO HOW to USE
 <h2>Setting up WalliD VerifiEth on a Discord server:</h2>
 
 <h2>Prerequisites</h2>
+WalliD VerifiEth is a Discord bot open to use by anybody. You will need the following in order to Install & Configure WalliD VerifiEth bot:
 
-The POAP-Bot is open for any and all to use to help automate the distribution of POAP Claim Codes during a live event for use on a Discord Server. You will need the following in order to Install & Configure WalliD VerifiEth bot:
-<ul>
-Admin Rights To A Discord Server
-Direct Messages From Server Members Enabled
-A Valid POAP Event With Claim Codes
-Event Details (Start/End Times, Codeword)</ul>
+- Admin Rights To A Discord Server
+- Direct Messages From Server Members Enabled
+- A Valid POAP Event With Claim Codes
+

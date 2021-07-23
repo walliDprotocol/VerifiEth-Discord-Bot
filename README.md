@@ -1,4 +1,4 @@
-#<h1> WalliD VerifiEth - Discord bot for identity verifications based on Ethereum wallet addresses</h1>
+<h1> WalliD VerifiEth - Discord bot for identity verifications based on Ethereum wallet addresses</h1>
 
 <h2>About</h2>
 

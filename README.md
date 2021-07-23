@@ -30,3 +30,7 @@ WalliD VerifiEth is a Discord bot open to use by anybody. You will need the foll
 - Direct Messages From Server Members Enabled
 - A Valid POAP Event With Claim Codes
 
+<h2>How to install VerifiEth bot on a Discord server</h2>
+<h3>Installation instructions</h3>
+ 1. Add the VerifiEth to your Discord Server by clicking this link.
+  VIDEO

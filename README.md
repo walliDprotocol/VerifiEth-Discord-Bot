@@ -1,1 +1,1 @@
-# discord-bot
+# WalliD VerifiEth - Discord bot

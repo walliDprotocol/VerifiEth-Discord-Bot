@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "wallid discord bot",
+  "main": "run.js",
+  "scripts": {
+    "test": "node run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walliDprotocol/Discord-Bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "wallid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walliDprotocol/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/walliDprotocol/Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "eth-sig-util": "^3.0.1",
+    "ethereumjs-util": "^7.1.0"
+  }
+}

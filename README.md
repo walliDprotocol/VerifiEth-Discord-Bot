@@ -17,20 +17,8 @@ Next versions will allow
 <li>customisation of verification output - such as, badge award, nft drop or any other reward</li>
 
 
-VIDEO HOW to USE
+                      
+                        """""""""""""""""""""""""""""""""""""""""***VIDEO HOW to USE***"""""""""""""""""""""""""""""""""""""""""
 
 
 
-<h2>Setting up WalliD VerifiEth on a Discord server:</h2>
-
-<h2>Prerequisites</h2>
-WalliD VerifiEth is a Discord bot open to use by anybody. You will need the following in order to Install & Configure WalliD VerifiEth bot:
-
-- Admin Rights To A Discord Server
-- Direct Messages From Server Members Enabled
-
-
-<h2>How to install VerifiEth bot on a Discord server</h2>
-<h3>Installation instructions</h3>
- 1. Add the VerifiEth to your Discord Server by clicking this link.
-  VIDEO

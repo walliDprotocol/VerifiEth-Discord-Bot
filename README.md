@@ -23,7 +23,7 @@ V3 will allow
 <li>customisation of verified IDs - server admin is able to configure wich identities or blockchain assets should be verified</li>
 <li>customisation of verification output - such as, badge award, nft drop or any other reward</li>
   
-  <h3> try it out on <a href="https://discord.gg/e9EfXeNeC9">WalliD's Discord</a></h3>
+<h3> try it out on <a href="https://discord.gg/e9EfXeNeC9">WalliD's Discord</a></h3>
 
 
                       

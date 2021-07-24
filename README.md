@@ -9,9 +9,16 @@ This proofs are generated within a MyWalliD web3 wallet. Anyone can install MyWa
 Current version of WallID VerifiEth allows:
 
 - Verification Discord ID and Ethereum wallet address
-- authomatic role awarding after verification
+- authomatic role awarding after verification <verifieth member role>
 
-Next versions will allow
+V2 will allow
+<ul>
+<li>integration on other Discord Servers</li>
+<li>customisation of role awarding</li>
+<li>Trigerring bot interaction from a generic command on designated channels within the server</li>
+
+
+V3 will allow
 <ul>
 <li>customisation of verified IDs - server admin is able to configure wich identities or blockchain assets should be verified</li>
 <li>customisation of verification output - such as, badge award, nft drop or any other reward</li>

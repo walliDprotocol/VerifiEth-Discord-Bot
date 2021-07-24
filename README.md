@@ -13,16 +13,17 @@ Current version of WallID VerifiEth allows:
 
 V2 will allow
 <ul>
-<li>integration on other Discord Servers</li>
-<li>customisation of role awarding</li>
-<li>Trigerring bot interaction from a generic command on designated channels within the server</li>
+  <li>integration on other Discord Servers</li>
+  <li>customisation of role awarding</li>
+  <li>Trigerring bot interaction from a generic command on designated channels within the server</li>
+</ul>
 
 
 V3 will allow
 <ul>
-<li>customisation of verified IDs - server admin is able to configure wich identities or blockchain assets should be verified</li>
-<li>customisation of verification output - such as, badge award, nft drop or any other reward</li>
-  
+  <li>customisation of verified IDs - server admin is able to configure wich identities or blockchain assets should be verified</li>
+  <li>customisation of verification output - such as, badge award, nft drop or any other reward</li>
+</ul>  
 <h3> try it out on <a href="https://discord.gg/e9EfXeNeC9">WalliD's Discord</a></h3>
 
 

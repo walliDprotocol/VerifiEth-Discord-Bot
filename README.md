@@ -32,16 +32,16 @@ V3 will allow
 
 
 
-<h3>Tutorial</h3>
+<h3>Walkthrough</h3>
   
 <h4> Get VerifEth on a Discord Channel </h4> 
 
 1. WalliD VerifiEth bot will start a DM once you land on WalliD's Discord server;
-2. type !start - the bot will reply with a link to MyWalliD with your Discord account ID info within;
+  2. type <b>!start</b> - the bot will reply with a link to MyWalliD with your Discord account ID info within;
 3. Download MyWalliD plug-in - from Google or Brave browser stores;
 4. Import or create a new Ethereum wallet address - Import with existing seed phrase;
 5. Sign your Discord ID with your Ethereum private keys using MyWallID interface;
-6. Go back to Discord and reply WalliD VerifiEth bot with !prove and that Discord ID signature;
+  6. Go back to Discord and reply WalliD VerifiEth bot with <b>!prove</b> and that Discord ID signature;
 7. WalliD VerifiEth bot will verify the signature and paste that proof on WalliD's #identity-verification channel - it will also send you the link to that post via DM
   
 <h4> Store your Discord ID in your Ethereum wallet</h4> 
@@ -50,7 +50,8 @@ V3 will allow
   
   
 <h4> Get VerifEth on ther Discord Channel </h4> 
-9. Next time you're required to verify your identity with VerifiEth bot on another channel all you need to do reply is !verify and add your proof of identity.
+  
+9. Next time you're required to verify your identity with VerifiEth bot on another channel all you need to do reply is <b>!verify</b> and add your proof of identity;
 10. Discord's Proof of identity can be generated on MyWalliD's interface on the "online IDs" section.
 
   

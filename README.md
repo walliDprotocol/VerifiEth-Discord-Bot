@@ -27,10 +27,8 @@ V3 will allow
 <h3> try it out on <a href="https://discord.gg/e9EfXeNeC9">WalliD's Discord</a></h3>
 
 <h2>How to use</h2>
-                      
-"""""""""""""""""""""""""""""""""""""""""***VIDEO HOW to USE***"""""""""""""""""""""""""""""""""""""""""
-
-
+                        
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5R7vrkeBkas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Walkthrough</h3>
   

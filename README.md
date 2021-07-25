@@ -28,7 +28,7 @@ V3 will allow
 
 <h2>How to use</h2>
                         
-<iframe src="https://www.youtube.com/embed/5R7vrkeBkas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/39834004/126912294-9f6a49cf-122c-492f-a418-e853f63d1668.mp4
 
 <h3>Walkthrough</h3>
   

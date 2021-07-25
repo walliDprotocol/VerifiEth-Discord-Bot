@@ -49,7 +49,7 @@ V3 will allow
 8.Paste the verification link provided by VerifiEth bot on MyWalliD's interface and store your Discord ID there.
   
   
-<h4><b>C) Get VerifEth on ther Discord Channel </b></h4> 
+<h4><b>C) Get VerifEth on another Discord Channel </b></h4> 
 
 9. Next time you're required to verify your identity with VerifiEth bot on another channel all you need to do reply is <b>!verify</b> and add your proof of identity;
 10. Discord's Proof of identity can be generated on MyWalliD's interface on the "online IDs" section.

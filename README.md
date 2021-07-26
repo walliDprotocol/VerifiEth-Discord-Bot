@@ -15,7 +15,7 @@ V2 will allow
 <ul>
   <li>integration on other Discord Servers</li>
   <li>customisation of role awarding</li>
-  <li>Trigerring bot interaction from a generic command on designated channels within the server</li>
+  <li>Trigerring bot interaction from a generic  ./command,on designated channels within the server</li>
 </ul>
 
 

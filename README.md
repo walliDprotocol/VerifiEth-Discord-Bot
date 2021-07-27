@@ -15,7 +15,7 @@ V2 will allow
 <ul>
   <li>integration on other Discord Servers</li>
   <li>customisation of role awarding</li>
-  <li>Trigerring bot interaction from a generic  `./command`,on designated channels within the server</li>
+  <li>Trigerring bot interaction from a generic ./command on designated channels within the server</li>
 </ul>
 
 
@@ -43,8 +43,8 @@ https://user-images.githubusercontent.com/39834004/126912294-9f6a49cf-122c-492f-
 - 7. WalliD VerifiEth bot will verify the signature and paste that proof on WalliD's #identity-verification channel - it will also send you the link to that post via DM
   
 <h4><b>B) Store your Discord ID in your Ethereum wallet</b></h4> 
-  
-- 8.Paste the verification link provided by VerifiEth bot on MyWalliD's interface and store your Discord ID there.
+ 
+ - 8. Paste the verification link provided by VerifiEth bot on MyWalliD's interface and store your Discord ID there.
   
   
 <h4><b>C) Get VerifEth on another Discord Channel </b></h4> 

@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/39834004/126912294-9f6a49cf-122c-492f-
   
 <h4><b>C) Get VerifEth on another Discord Channel </b></h4> 
 
-- 9. Next time you're required to verify your identity with VerifiEth bot on another channel all you need to do reply is <b>`!verify</b> and add your proof of identity;
+- 9. Next time you're required to verify your identity with VerifiEth bot on another channel all you need to do reply is <b>`!verify and add your proof of identity;
 - 10. Discord's Proof of identity can be generated on MyWalliD's interface on the "online IDs" section.
 
   

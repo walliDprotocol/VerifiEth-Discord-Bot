@@ -28,7 +28,11 @@ V3 will allow
 
 <h2>How to use</h2>
                         
-https://user-images.githubusercontent.com/39834004/126912294-9f6a49cf-122c-492f-a418-e853f63d1668.mp4
+
+
+https://user-images.githubusercontent.com/39834004/128215385-c9365f65-29db-4ea1-a599-7011e40ebdb5.mp4
+
+
 
 <h3>Walkthrough</h3>
   

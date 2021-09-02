@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 
 List of commands to configure the bot!
 
-### !setup verifyeth
+### !setup verifieth
 Initial bot setup. The user who type this command will be the admin of the bot. 
 obs: When user type this command from a channel this channel (and all the members) are able to send configurations commands to the bot.
 

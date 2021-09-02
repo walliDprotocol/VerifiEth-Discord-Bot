@@ -36,8 +36,6 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 
 
 
-
-
 <h3>Walkthrough</h3>
   
 <h4><b>A) Get VerifEth on a Discord Channel</b> </h4> 
@@ -60,5 +58,48 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 - 9. Next time you're required to verify your identity with VerifiEth bot on another channel all you need to do reply is `!verify` and add your proof of identity;
 - 10. Discord's Proof of identity can be generated on MyWalliD's interface on the "online IDs" section.
 
-  
 
+# Admin Setup
+
+List of commands to configure the bot!
+
+### !setup verifyeth
+Initial bot setup. The user who type this command will be the admin of the bot. 
+obs: When user type this command from a channel this channel (and all the members) are able to send configurations commands to the bot.
+
+### !setup list
+List all configuration from server
+
+### !setup config-channel <channel_name>
+Define a channel where validation commands can be sent
+Obs: Can be set if the command !setup is executed on this channel 
+
+### !setup verification-channel <channel_name>
+Define the channel where users start the onboarding process also where they will post validation messages
+
+### !setup wallet "output role"
+ex: !setup wallet "Enji Token Holder" <br>
+Define a role of a user once is wallet is verified by WalliD
+
+### !setup erc20 <contract_address> "Project Name" "Role of Owner"
+ex: !setup erc20 0x0d8775f648430679a709e98d2b0cb6250d2887ef "BAT Token" "Bat Token Holder" <br>
+Define the channel where users start the onboarding process also where they will post validation messages
+
+### !setup remove erc20 <contract_address>
+Remove ERC20 configuration
+
+### !setup erc721 <contract_address> "Project Name" "Role of Owner"
+ex: !setup erc721 0x0d8775f648430679a709e98d2b0cb6250d2887ef "Sup Ducks" "Sup Duck Owner" <br>
+Define the channel where users start the onboarding process also where they will post validation messages
+
+### !setup remove erc721 <contract_address>
+Remove ERC721 configuration
+
+### !setup erc1155 <contract_address> <nft_id> "Project Name" "Role of Owner"
+ex: !setup erc1155 0x495f947276749Ce646f68AC8c248420045cb7b5e "Tiny Turtle" "Tiny Turtle Owner"<br>
+Define the channel where users start the onboarding process also where they will post validation messages
+
+### !setup remove erc1155 <contract_address>
+Remove ERC1155 configuration
+
+  

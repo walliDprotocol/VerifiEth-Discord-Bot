@@ -98,5 +98,5 @@ eg. !setup erc1155 0x495f947276749Ce646f68AC8c248420045cb7b5e "Tiny Turtle" "Tin
 Deletes !setup erc1155 configuration for the specified asset.
 
 ### Notes: 
-  -<Project Name> field will be used by the bot when DMmin a member in order to announce the assets it will be verifying. Admins may customise it freely
-  -<Role of Owner> needs to be the same as an existing role within the server       
+  - "Project Name" field will be used by the bot when DMmin a member in order to announce the assets it will be verifying. Admins may customise it freely
+  - "Role of Owner" needs to be the same as an existing role within the server       

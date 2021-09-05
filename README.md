@@ -4,29 +4,24 @@
 
 WalliD Verifieth is a Discord bot that verifies multiple ID assets within Etherem wallets (ETh address, ERC20, ER721, Social networks or ID cards) and awards server roles to verified members.
 WalliD VerifiEth interacts with the users via direct message (DM) in order to request and validate ID assets.
-This proofs are generated within a MyWalliD web3 wallet. Anyone can install MyWalliD browser plug-in and create or import an Ethereum wallet address as well as associate a social network account and other identities with that address.
+These proofs are generated within a MyWalliD web3 wallet. Anyone can install MyWalliD browser extension and create or import an Ethereum wallet address as well as manage their ID portfolio and assets.
 
 Current version of WallID VerifiEth allows:
 
-- Verification Discord ID and Ethereum wallet address
-- authomatic role awarding after verification <verifieth member role>
+- Verification Discord ID and Ethereum wallet address;
+- Verification of multiple ERC-20 tokens ownership;
+- Verification of multiple ERC-721 assets ownership;
+- Verification of multiple ERC-1155 assets ownership;
+- Role awarding per asset verification.
 
-V2 will allow
+Next version of VerifiEth bot will allow
 <ul>
-  <li>integration on other Discord Servers</li>
-  <li>customisation of role awarding</li>
-  <li>Trigerring bot interaction from a generic ./command on designated channels within the server</li>
-</ul>
-
-
-V3 will allow
-<ul>
-  <li>customisation of verified IDs - server admin is able to configure wich identities or blockchain assets should be verified</li>
-  <li>customisation of verification output - such as, badge award, nft drop or any other reward</li>
+  <li>Verification of every ID asset within MyWalliD weelits - server admin is able to configure wich identities or blockchain assets should be verified</li>
+  <li>customisation of verification result - such as a badge issuance, nft drop or any other reward</li>
 </ul>  
 <h3> try it out on <a href="https://discord.gg/e9EfXeNeC9">WalliD's Discord</a></h3>
 
-<h2>How to use</h2>
+<h2>How it works</h2>
                         
 
 

@@ -52,9 +52,9 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 - 10. Discord's Proof of identity can be generated on MyWalliD's interface on the "online IDs" section.
 
 
-# Admin Setup
+<h2> Setting VerifiEth bot on your server <h2>
 
-List of commands to customise bot's verifications:
+<h3>List of commands to customise bot's verifications<h3>
 
 ### !setup verifieth
 Starts bot configuration. 

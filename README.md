@@ -1,9 +1,9 @@
-<h1> WalliD VerifiEth - Discord bot for identity verifications based on Ethereum wallet addresses</h1>
+<h1> WalliD VerifiEth - Discord bot for identity assets verification based on Ethereum wallet addresses</h1>
 
 <h2>About</h2>
 
-WalliD Verifieth is a Discord bot that verifies Discord users Ethereum wallet addresses, social network account IDs or blockchain assets' ownership before awarding a specific role on a Discord channel.
-WalliD VerifiEth interacts with the users via direct message (DM) in order to request the intended proofs of identity. 
+WalliD Verifieth is a Discord bot that verifies multiple ID assets within Etherem wallets (ETh address, ERC20, ER721, Social networks or ID cards) and awards server roles to verified members.
+WalliD VerifiEth interacts with the users via direct message (DM) in order to request and validate ID assets.
 This proofs are generated within a MyWalliD web3 wallet. Anyone can install MyWalliD browser plug-in and create or import an Ethereum wallet address as well as associate a social network account and other identities with that address.
 
 Current version of WallID VerifiEth allows:
@@ -64,22 +64,23 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 List of commands to configure the bot!
 
 ### !setup verifieth
-Initial bot setup. The user who type this command will be the admin of the bot. 
-obs: When user type this command from a channel this channel (and all the members) are able to send configurations commands to the bot.
+Starts bot configuration. 
+note: When user types this command in a given channel, all members inside are able to use configurations commands for the bot.
 
 ### !setup list
-List all configuration from server
+Lists all setup commands and their instructions.
 
 ### !setup config-channel <channel_name>
-Define a channel where validation commands can be sent
+Choose a channel where validation commands can be sent
 Obs: Can be set if the command !setup is executed on this channel 
 
 ### !setup verification-channel <channel_name>
-Define the channel where users start the onboarding process also where they will post validation messages
+Choose a channel where members will interact with the bot in order to trigger their verifications.
 
 ### !setup wallet "output role"
-ex: !setup wallet "Enji Token Holder" <br>
-Define a role of a user once is wallet is verified by WalliD
+Sets up wallet verification parameters. With this command the bot will check if the user owns an Ethereum wallet address and award the role defined in quotes once the verification is succesfull.
+eg. !setup wallet "Verified Member" <br>
+
 
 ### !setup erc20 <contract_address> "Project Name" "Role of Owner"
 ex: !setup erc20 0x0d8775f648430679a709e98d2b0cb6250d2887ef "BAT Token" "Bat Token Holder" <br>

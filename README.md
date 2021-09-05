@@ -1,4 +1,4 @@
-<h1> WalliD VerifiEth - Discord bot for identity assets verification based on Ethereum wallet addresses</h1>
+<h1> WalliD VerifiEth - Discord bot for identity asset verification based on Ethereum wallet addresses</h1>
 
 <h2>About</h2>
 
@@ -30,8 +30,6 @@ V3 will allow
                         
 
 
-
-
 https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-8326-7c03a23fd1db.mp4
 
 
@@ -61,7 +59,7 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 
 # Admin Setup
 
-List of commands to configure the bot!
+List of commands to customise bot's verifications:
 
 ### !setup verifieth
 Starts bot configuration. 
@@ -78,29 +76,32 @@ Obs: Can be set if the command !setup is executed on this channel
 Choose a channel where members will interact with the bot in order to trigger their verifications.
 
 ### !setup wallet "output role"
-Sets up wallet verification parameters. With this command the bot will check if the user owns an Ethereum wallet address and award the role defined in quotes once the verification is succesfull.
-eg. !setup wallet "Verified Member" <br>
+Sets up wallet verification parameters. With this command the bot will check if the user owns an Ethereum wallet address and award the role defined in quotes once the verification is succesfull.<br>
+eg. !setup wallet "Verified Member".
 
 
 ### !setup erc20 <contract_address> "Project Name" "Role of Owner"
-ex: !setup erc20 0x0d8775f648430679a709e98d2b0cb6250d2887ef "BAT Token" "Bat Token Holder" <br>
-Define the channel where users start the onboarding process also where they will post validation messages
+Sets up ERC-20 verification parameters. With this command the bot will check if the user owns an Ethereum wallet address with the specified ERC-20 token in it (min amount > 0) and award the role defined in quotes once the verification is succesfull.<br>g
+eg. !setup erc20 0x0d8775f648430679a709e98d2b0cb6250d2887ef "BAT Token" "Bat Token Holder" 
 
 ### !setup remove erc20 <contract_address>
-Remove ERC20 configuration
+Deletes !setup erc20 configuration for the specified asset.
 
 ### !setup erc721 <contract_address> "Project Name" "Role of Owner"
-ex: !setup erc721 0x0d8775f648430679a709e98d2b0cb6250d2887ef "Sup Ducks" "Sup Duck Owner" <br>
-Define the channel where users start the onboarding process also where they will post validation messages
+Sets up ERC-721 verification parameters. With this command the bot will check if the user owns an Ethereum wallet address with at least one NFT from the specified ERC-721 contract address and award the role defined in quotes once the verification is succesfull.<br>
+eg. !setup erc721 0x0d8775f648430679a709e98d2b0cb6250d2887ef "Sup Ducks" "Sup Duck Owner" 
 
 ### !setup remove erc721 <contract_address>
-Remove ERC721 configuration
+Deletes !setup erc721 configuration for the specified asset.
 
-### !setup erc1155 <contract_address> <nft_id> "Project Name" "Role of Owner"
-ex: !setup erc1155 0x495f947276749Ce646f68AC8c248420045cb7b5e "Tiny Turtle" "Tiny Turtle Owner"<br>
-Define the channel where users start the onboarding process also where they will post validation messages
+### !setup erc1155 <contract_address> "Project Name" "Role of Owner"
+Sets up ERC-1155 verification parameters. With this command the bot will check if the user owns an Ethereum wallet address with at least one NFT from the specified ERC-1155 contract address and award the role defined in quotes once the verification is succesfull.<br>
+eg. !setup erc1155 0x495f947276749Ce646f68AC8c248420045cb7b5e "Tiny Turtle" "Tiny Turtle Owner"<br>
+
 
 ### !setup remove erc1155 <contract_address>
-Remove ERC1155 configuration
+Deletes !setup erc1155 configuration for the specified asset.
 
-  
+### Notes: 
+  -<Project Name> field will be used by the bot when DMmin a member in order to announce the assets it will be verifying. Admins may customise it freely
+  -<Role of Owner> needs to be the same as an existing role within the server       

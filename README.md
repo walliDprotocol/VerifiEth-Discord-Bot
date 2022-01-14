@@ -2,7 +2,7 @@
 
 <h2>About</h2>
 
-WalliD Verifieth is a Discord bot that verifies multiple ID assets within Etherem wallets (ETh address, ERC20, ER721, Social networks or ID cards) and awards server roles to verified members.
+WalliD Verifieth is a Discord bot that verifies multiple ID assets associated with a MyWalliD wallet address (ETh address, ERC20, ER721, decentralized credentials or Legaacy IDs) and awards server roles to verified members.
 WalliD VerifiEth interacts with the users via direct message (DM) in order to request and validate ID assets.
 These proofs are generated within a MyWalliD web3 wallet. Anyone can install MyWalliD browser extension and create or import an Ethereum wallet address as well as manage their ID portfolio and assets.
 

@@ -6,7 +6,7 @@ WalliD Verifieth is a Discord bot that verifies multiple ID assets associated wi
 WalliD VerifiEth interacts with the users via direct message (DM) in order to request and validate ID assets.
 These proofs are generated within a MyWalliD web3 wallet. Anyone can install MyWalliD browser extension and create or import an Ethereum wallet address as well as manage their ID portfolio and assets.
 
-Current version of WallID VerifiEth allows:
+Current version of WallID VerifiEth (V3) allows:
 
 - Verification Discord ID and Ethereum wallet address;
 - Verification of multiple ERC-20 tokens ownership;
@@ -19,7 +19,7 @@ Next version of VerifiEth bot will allow
   <li>Verification of every ID asset within MyWalliD weelits - server admin is able to configure wich identities or blockchain assets should be verified</li>
   <li>customisation of verification result - such as a badge issuance, nft drop or any other reward</li>
 </ul>  
-<h3> try it out on <a href="https://discord.gg/e9EfXeNeC9">WalliD's Discord</a></h3>
+<h3> Try it out on <a href="https://discord.gg/e9EfXeNeC9">WalliD's Discord</a></h3>
 
 <h2>How it works</h2>
                         
@@ -30,9 +30,9 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 
 
 <h3>Walkthrough</h3>
-  
-<h4><b>A) Get VerifEth on a Discord Channel</b> </h4> 
 
+<h4><b>A) Get and verify a Discord ID asset </b></h4> 
+  
 - 1. WalliD VerifiEth bot will start a DM once you land on WalliD's Discord server;
 - 2. type `!start` - the bot will reply with a link to MyWalliD with your Discord account ID info within;
 - 3. Download MyWalliD plug-in - from Google or Brave browser stores;
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 - 6. Go back to Discord and reply WalliD VerifiEth bot with `!prove` and that Discord ID signature;
 - 7. WalliD VerifiEth bot will verify the signature and paste that proof on WalliD's #identity-verification channel - it will also send you the link to that post via DM
   
-<h4><b>B) Store your Discord ID in your Ethereum wallet</b></h4> 
+<h4><b>B) Store your Discord ID in MyWalliD</b></h4> 
  
  - 8. Paste the verification link provided by VerifiEth bot on MyWalliD's interface and store your Discord ID there.
   
@@ -52,9 +52,13 @@ https://user-images.githubusercontent.com/39834004/128215621-058ee58e-f6e2-469c-
 - 10. Discord's Proof of identity can be generated on MyWalliD's interface on the "online IDs" section.
 
 
-<h2> Setting VerifiEth bot on your server <h2>
+<h2> Setting VerifiEth bot in your server </h2>
 
-<h3>List of commands to customise bot's verifications<h3>
+<h3>Install the bot in a server</h3> 
+
+Get the bot in your server <a href="https://discord.com/api/oauth2/authorize?client_id=869586095501877279&permissions=275146352688&redirect_uri=https%3A%2F%2Fwallid.io%2F&response_type=code&scope=guilds%20bot"> in this link</a> and approve the pre-selected permissions.
+  
+<h3>Customise bot's verifications with the following command list<h3>
 
 ### !setup verifieth
 Starts bot configuration. 
